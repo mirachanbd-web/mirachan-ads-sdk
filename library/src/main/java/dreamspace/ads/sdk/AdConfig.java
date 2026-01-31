@@ -28,22 +28,22 @@ public class AdConfig implements Serializable {
 
     public static String ad_admob_publisher_id = "pub-6224751535592880";
     public static String ad_admob_banner_unit_id = "ca-app-pub-6224751535592880/4092947075";
-    public static String ad_admob_interstitial_unit_id = "ca-app-pub-3940256099942544/1033173712";
-    public static String ad_admob_rewarded_unit_id = "ca-app-pub-3940256099942544/5224354917";
-    public static String ad_admob_open_app_unit_id = "ca-app-pub-3940256099942544/3419835294";
+    //public static String ad_admob_interstitial_unit_id = "ca-app-pub-3940256099942544/1033173712";
+    //public static String ad_admob_rewarded_unit_id = "ca-app-pub-3940256099942544/5224354917";
+    //public static String ad_admob_open_app_unit_id = "ca-app-pub-3940256099942544/3419835294";
 
-    public static String ad_manager_banner_unit_id = "/6499/example/banner";
-    public static String ad_manager_interstitial_unit_id = "/6499/example/interstitial";
-    public static String ad_manager_rewarded_unit_id = "/6499/example/rewarded";
-    public static String ad_manager_open_app_unit_id = "/6499/example/app-open";
+    //public static String ad_manager_banner_unit_id = "/6499/example/banner";
+    //public static String ad_manager_interstitial_unit_id = "/6499/example/interstitial";
+    //public static String ad_manager_rewarded_unit_id = "/6499/example/rewarded";
+    //public static String ad_manager_open_app_unit_id = "/6499/example/app-open";
 
-    public static String ad_fan_banner_unit_id = "YOUR_PLACEMENT_ID";
-    public static String ad_fan_interstitial_unit_id = "YOUR_PLACEMENT_ID";
-    public static String ad_fan_rewarded_unit_id = "YOUR_PLACEMENT_ID";
+    //public static String ad_fan_banner_unit_id = "YOUR_PLACEMENT_ID";
+    //public static String ad_fan_interstitial_unit_id = "YOUR_PLACEMENT_ID";
+    //public static String ad_fan_rewarded_unit_id = "YOUR_PLACEMENT_ID";
 
-    public static String ad_ironsource_app_key = "1a12ca71d";
-    public static String ad_ironsource_banner_unit_id = "DefaultBanner";
-    public static String ad_ironsource_rewarded_unit_id = "DefaultRewardedVideo";
-    public static String ad_ironsource_interstitial_unit_id = "DefaultInterstitial";
+    //public static String ad_ironsource_app_key = "1a12ca71d";
+    //public static String ad_ironsource_banner_unit_id = "DefaultBanner";
+    //public static String ad_ironsource_rewarded_unit_id = "DefaultRewardedVideo";
+    //public static String ad_ironsource_interstitial_unit_id = "DefaultInterstitial";
 
 }
